@@ -2977,3 +2977,5 @@ belarus srl,bet9ja
 lithuania srl,bet9ja
 denmark srl,bet9ja
 iceland srl,bet9ja
+league b,betking
+league c,betking
