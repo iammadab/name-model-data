@@ -2979,3 +2979,180 @@ denmark srl,bet9ja
 iceland srl,bet9ja
 league b,betking
 league c,betking
+special mix netherlands,betking
+special mix slovakia,betking
+afc champions league group e,bet9ja
+seoul,bet9ja
+beijing guoan fc,bet9ja
+prva liga,bet9ja
+kolubara lazarevac,bet9ja
+zarkovo,bet9ja
+trajal krusevac,bet9ja
+radnicki 1923,bet9ja
+sloga kraljevo,bet9ja
+fk radnicki sremska mitrovica,bet9ja
+pe sant jordi,bet9ja
+santa catalina atletico,bet9ja
+illueca,bet9ja
+belchite 97,bet9ja
+ireland premier division & germany bundesliga 3,betking
+2 matches for 15th of november 2020,betking
+italy lega progirone b,betking
+africa cup of nations qualification,betking
+netherlands eerste divisie,betking
+suwon samsung,betking
+guangzhou evergrande,betking
+national league,bet9ja
+bromley,bet9ja
+boreham wood,bet9ja
+aldershot town,bet9ja
+maidenhead utd,bet9ja
+eastleigh,bet9ja
+wealdstone,bet9ja
+altrincham,bet9ja
+chesterfield,bet9ja
+hartlepool utd,bet9ja
+wrexham,bet9ja
+afc champions league group g,bet9ja
+suwon bluewings,bet9ja
+guangzhou evergrande,bet9ja
+barnet,bet9ja
+kings lynn,bet9ja
+afc champions league group h,bet9ja
+sydney fc,bet9ja
+shanghai sipg,bet9ja
+gillingham,bet9ja
+charlton,bet9ja
+halifax town,bet9ja
+notts county,bet9ja
+special mix italy,betking
+special mix turkey,betking
+special mix belgium,betking
+srb  prva liga,betking
+sloga kraljevo,betking
+radnicki sremska mitrovica,betking
+municipal limeno,betking
+jocoro fc,betking
+fk trajal krusevac,betking
+fk radnicki 1923,betking
+fk buducnost dobanovci,betking
+fk kabel novi sad,betking
+cd atletico marte,betking
+fk kolubara lazarevac,betking
+fk zarkovo,betking
+cd fas,betking
+once municipal,betking
+municipal limeno,bet9ja
+jocoro,bet9ja
+atletico marte,bet9ja
+alianza (slv),bet9ja
+fas,bet9ja
+once municipal,bet9ja
+buducnost dobanovci,bet9ja
+kabel novi sad,bet9ja
+if floeya,bet9ja
+oevrevoll hosle il,bet9ja
+zamora,bet9ja
+aragua,bet9ja
+chad,bet9ja
+guinea,bet9ja
+trujillanos,bet9ja
+deportivo lara,bet9ja
+nor  1st division women,betking
+honefoss bk (w),betking
+kil/hemne (w),betking
+stabaek (w),betking
+amazon grimstad fk,betking
+trujillanos fc,betking
+deportivo lara,betking
+seoul,betking
+beijing guoan,betking
+league cup knockout stage,bet9ja
+al wakrah,bet9ja
+al kharaitiyat sc,bet9ja
+al arabi doha sc,bet9ja
+alsailiya sc,bet9ja
+pe sant jordi,betking
+santa catalina atletico,betking
+illueca cf,betking
+cd belchite 97,betking
+deinze,bet9ja
+seraing,bet9ja
+cd platense,betking
+cd olimpia,betking
+cd motagua,betking
+cd vida,betking
+floya,betking
+ovrevoll hosle (w),betking
+ven  primera division group b,betking
+zamora fc,betking
+aragua fc,betking
+ita  serie d  gir a,betking
+asd imperia 1923,betking
+citta di varese,betking
+esoccer liga pro  12 mins play,betking
+cfi confession,betking
+own owned,betking
+old oldschool xi,betking
+pnz im not over,betking
+ez1 ez1d 11,betking
+team ruspro r11,betking
+meg megapolice,betking
+fin fints,betking
+cfc catalonia fc,betking
+nht newton heath,betking
+kmsk deinze,betking
+rfc seraing,betking
+qat  qsl cup,betking
+al arabi doha sc,betking
+alsailiya sc,betking
+chad,betking
+guinea,betking
+al wakrah,betking
+al kharaityat sc,betking
+artvin hopaspor,bet9ja
+1877 alemdag spor,bet9ja
+druga liga crne gore,bet9ja
+arsenal tivat,bet9ja
+kom,bet9ja
+drezga,bet9ja
+bokelj kotor,bet9ja
+igalo 1929,bet9ja
+ofk grbalj,bet9ja
+jedinstvo bijelo polje,bet9ja
+mornar bar,bet9ja
+esiliiga relegation round,bet9ja
+vandra vaprus,bet9ja
+levadia tallinn u21,bet9ja
+ibar rozaje,bet9ja
+berane,bet9ja
+liberty professionals,bet9ja
+bechem utd,bet9ja
+motagua,bet9ja
+vida,bet9ja
+platense,bet9ja
+olimpia,bet9ja
+golcukspor,bet9ja
+erbaaspor,bet9ja
+catalcaspor,bet9ja
+icel idmanyurdu spor,bet9ja
+kemerspor 2003,bet9ja
+payasspor,bet9ja
+carsambaspor,bet9ja
+karsiyaka,bet9ja
+cankaya,bet9ja
+belediye derincespor,bet9ja
+tur  3. lig,betking
+golcukspor,betking
+erbaaspor,betking
+carsambaspor,betking
+karsiyaka,betking
+kemerspor 2003,betking
+payas belediye,betking
+adliyespor,betking
+derince spor,betking
+catalcaspor,betking
+icel idmanyurdu spor,betking
+agrispor 1970 sk,bet9ja
+nazilli belediyespor,bet9ja
+afc champions league,bet9ja
