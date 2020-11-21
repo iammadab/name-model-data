@@ -4,3 +4,37 @@ guineabissau,guinea bissau
 republic of ireland,ireland
 bosnia & herzegovina,bosnia
 kosovo (fifa appr.),kosovo
+englandpremier league,england - premier league
+premier league,england - premier league
+eng  premier league,england - premier league
+ned  eredivisie,eredivisie 
+ger  bundesliga, germany - bundesliga
+bundesliga srl,germany - bundesliga
+ita  serie a,italy - serie a
+serie a,italy - serie a
+spa  laliga,spain - la liga
+primera division,spain - la liga
+fra  ligue 1,france - ligue 1
+ligue 1,france - ligue 1
+man. utd,manchester united
+manchester utd,manchester united
+basaksehir,istanbul basaksehir
+lokomotiv,lokomotiv moscow
+bayern m,bayern munich
+olympiacos,olympiakos
+man. city,manchester city
+b. dortmund,borussia dortmund
+stade rennes,rennes
+zenit st. petersburg,zenith st petersburg
+standard,standard liege
+kks lech poznan,lech poznan
+aek,aek athens
+bsc young boys,young boys
+omonia nicosia,ac omonia nicosia
+antwerp,royal antwerp
+cfr 1907 cluj,cfr cluj
+liberec,slovan liberec
+crvena zvezda,crvena zvezda (red star belgrade)
+red star belgrade,crvena zvezda (red star belgrade)
+ludogorets 1945 razgrad,ludogorets razgrad
+leicester,leicester city
