@@ -1,0 +1,35 @@
+[category]
+uefa nations league,betking
+uefa nations league,bet9ja
+
+[category]
+eng  premier league,betking
+premier league,bet9ja
+
+[category]
+spa  laliga,betking
+primera division,bet9ja
+
+[category]
+ita  serie a,betking
+serie a,bet9ja
+
+[category]
+ligue 1,bet9ja
+france ligue 1,betking
+
+[category]
+bundesliga,bet9ja
+ger  bundesliga,betking
+
+[category]
+eredivisie,bet9ja
+ned  eredivisie,betking
+
+[category]
+uefa champions league,betking
+uefa champions league,bet9ja
+
+[category]
+uefa europa league,bet9ja
+uefa europa league,betking
