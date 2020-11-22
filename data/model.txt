@@ -1,18 +1,16 @@
-uefa nations league,uefa nations league
-uefa nations league,uefa nations league
 eng  premier league,eng  premier league
-premier league,eng  premier league
+england premier league,eng  premier league
 spa  laliga,spa  laliga
-primera division,spa  laliga
+spain primera division,spa  laliga
+italy serie a,ita  serie a
 ita  serie a,ita  serie a
-serie a,ita  serie a
 ligue 1,france ligue 1
 france ligue 1,france ligue 1
-bundesliga,ger  bundesliga
+germany bundesliga,ger  bundesliga
 ger  bundesliga,ger  bundesliga
-eredivisie,ned  eredivisie
+netherlands eredivisie,ned  eredivisie
 ned  eredivisie,ned  eredivisie
+international clubs uefa champions league,uefa champions league
 uefa champions league,uefa champions league
-uefa champions league,uefa champions league
-uefa europa league,uefa europa league
+international clubs uefa europa league,uefa europa league
 uefa europa league,uefa europa league
