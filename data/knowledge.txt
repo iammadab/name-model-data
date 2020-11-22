@@ -181,21 +181,3 @@ valladolid,bet9ja
 [category]
 athletic bilbao,betking
 ath. bilbao,bet9ja
-
-[category]
-
-[category]
-
-[category]
-
-[category]
-
-[category]
-
-[category]
-
-[category]
-
-[category]
-
-[category]
