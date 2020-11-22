@@ -1,7 +1,0 @@
-[category]
-manchester united,bet9ja
-man u,betking
-
-[category]
-south korea,bet9ja
-republic of korea,betking
