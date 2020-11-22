@@ -6105,3 +6105,8 @@ poland ii liga,bet9ja
 paraguay primera division clausura,bet9ja
 uruguay primera division intermedio serie a,bet9ja
 slovakia superliga,bet9ja
+belgium superleague women,bet9ja
+turkey 3. lig,bet9ja
+adiyaman 1954 sk,bet9ja
+siirt il ozel idaresi spor,bet9ja
+karakopru belediye,bet9ja
