@@ -29,3 +29,173 @@ uefa champions league,betking
 [category]
 international clubs uefa europa league,bet9ja
 uefa europa league,betking
+
+[category]
+sparta,betking
+sparta rotterdam,bet9ja
+
+[category]
+pec zwolle,betking
+zwolle,bet9ja
+
+[category]
+vvv venlo,betking
+venlo,bet9ja
+
+[category]
+rkc waalwijk,betking
+waalwijk,bet9ja
+
+[category]
+sittard,bet9ja
+fortuna sittard,betking
+
+[category]
+ado den haag,betking
+den haag,bet9ja
+
+[category]
+verona,betking
+hellas verona,bet9ja
+
+[category]
+man. city,betking
+manchester city,bet9ja
+
+[category]
+leeds,betking
+leeds utd,bet9ja
+
+[category]
+newcastle,betking
+newcastle utd,bet9ja
+
+[category]
+man. utd,betking
+manchester united,bet9ja
+
+[category]
+wolverhampton,betking
+wolves,bet9ja
+
+[category]
+west bromwich,betking
+west brom,bet9ja
+
+[category]
+leicester,betking
+leicester city,bet9ja
+
+[category]
+bayern m.,betking
+bayern munich,bet9ja
+
+[category]
+b. dortmund,betking
+borussia dortmund,bet9ja
+
+[category]
+werder,betking
+werder bremen,bet9ja
+
+[category]
+hertha,betking
+hertha bsc,bet9ja
+
+[category]
+omonia nicosia,betking
+ac omonia nicosia,bet9ja
+
+[category]
+ludogorets razgrad,betking
+ludogorets 1945 razgrad,bet9ja
+
+[category]
+young boys,betking
+bsc young boys,bet9ja
+
+[category]
+aek,betking
+aek athens,bet9ja
+
+[category]
+cfr cluj,betking
+cfr 1907 cluj,bet9ja
+
+[category]
+slovan liberec,betking
+liberec,bet9ja
+
+[category]
+red star belgrade,betking
+crvena zvezda,bet9ja
+
+[category]
+antwerp,betking
+royal antwerp,bet9ja
+
+[category]
+standard,betking
+standard liege,bet9ja
+
+[category]
+lech poznan,betking
+kks lech poznan,bet9ja
+
+[category]
+zenit st petersburg,betking
+zenit st. petersburg,bet9ja
+
+[category]
+rennes,betking
+stade rennes,bet9ja
+
+[category]
+lokomotiv,betking
+lokomotiv moscow,bet9ja
+
+[category]
+olympiacos,betking
+olympiakos,bet9ja
+
+[category]
+basaksehir,betking
+istanbul basaksehir,bet9ja
+
+[category]
+betis,betking
+real betis,bet9ja
+
+[category]
+celta,betking
+celta vigo,bet9ja
+
+[category]
+cadiz,betking
+cadiz cf,bet9ja
+
+[category]
+real valladolid,betking
+valladolid,bet9ja
+
+[category]
+athletic bilbao,betking
+ath. bilbao,bet9ja
+
+[category]
+
+[category]
+
+[category]
+
+[category]
+
+[category]
+
+[category]
+
+[category]
+
+[category]
+
+[category]
