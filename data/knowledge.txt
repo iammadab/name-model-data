@@ -11,8 +11,8 @@ italy serie a,bet9ja
 ita  serie a,betking
 
 [category]
-ligue 1,bet9ja
-france ligue 1,betking
+france ligue 1,bet9ja
+fra ligue 1,betking
 
 [category]
 germany bundesliga,bet9ja

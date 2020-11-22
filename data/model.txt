@@ -4,8 +4,8 @@ spa  laliga,spa  laliga
 spain primera division,spa  laliga
 italy serie a,ita  serie a
 ita  serie a,ita  serie a
-ligue 1,france ligue 1
-france ligue 1,france ligue 1
+france ligue 1,fra ligue 1
+fra ligue 1,fra ligue 1
 germany bundesliga,ger  bundesliga
 ger  bundesliga,ger  bundesliga
 netherlands eredivisie,ned  eredivisie
