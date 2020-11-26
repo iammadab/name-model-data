@@ -14,3 +14,85 @@ international clubs uefa champions league,uefa champions league
 uefa champions league,uefa champions league
 international clubs uefa europa league,uefa europa league
 uefa europa league,uefa europa league
+sparta,sparta
+sparta rotterdam,sparta
+pec zwolle,pec zwolle
+zwolle,pec zwolle
+vvv venlo,vvv venlo
+venlo,vvv venlo
+rkc waalwijk,rkc waalwijk
+waalwijk,rkc waalwijk
+sittard,fortuna sittard
+fortuna sittard,fortuna sittard
+ado den haag,ado den haag
+den haag,ado den haag
+verona,verona
+hellas verona,verona
+man. city,man. city
+manchester city,man. city
+leeds,leeds
+leeds utd,leeds
+newcastle,newcastle
+newcastle utd,newcastle
+man. utd,man. utd
+manchester united,man. utd
+wolverhampton,wolverhampton
+wolves,wolverhampton
+west bromwich,west bromwich
+west brom,west bromwich
+leicester,leicester
+leicester city,leicester
+bayern m.,bayern m.
+bayern munich,bayern m.
+b. dortmund,b. dortmund
+borussia dortmund,b. dortmund
+werder,werder
+werder bremen,werder
+hertha,hertha
+hertha bsc,hertha
+omonia nicosia,omonia nicosia
+ac omonia nicosia,omonia nicosia
+ludogorets razgrad,ludogorets razgrad
+ludogorets 1945 razgrad,ludogorets razgrad
+young boys,young boys
+bsc young boys,young boys
+aek,aek
+aek athens,aek
+cfr cluj,cfr cluj
+cfr 1907 cluj,cfr cluj
+slovan liberec,slovan liberec
+liberec,slovan liberec
+red star belgrade,red star belgrade
+crvena zvezda,red star belgrade
+antwerp,antwerp
+royal antwerp,antwerp
+standard,standard
+standard liege,standard
+lech poznan,lech poznan
+kks lech poznan,lech poznan
+zenit st petersburg,zenit st petersburg
+zenit st. petersburg,zenit st petersburg
+rennes,rennes
+stade rennes,rennes
+lokomotiv,lokomotiv
+lokomotiv moscow,lokomotiv
+olympiacos,olympiacos
+olympiakos,olympiacos
+basaksehir,basaksehir
+istanbul basaksehir,basaksehir
+betis,betis
+real betis,betis
+celta,celta
+celta vigo,celta
+cadiz,cadiz
+cadiz cf,cadiz
+real valladolid,real valladolid
+valladolid,real valladolid
+athletic bilbao,athletic bilbao
+ath. bilbao,athletic bilbao
+manchester utd,man. utd
+man. utd,man. utd
+brest,stade brest
+stade brest,stade brest
+st. etienne,saint etienne
+saint etienne,saint etienne
