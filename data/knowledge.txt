@@ -12,7 +12,7 @@ ita  serie a,betking
 
 [category]
 france ligue 1,bet9ja
-fra ligue 1,betking
+fra  ligue 1,betking
 
 [category]
 germany bundesliga,bet9ja
@@ -181,3 +181,15 @@ valladolid,bet9ja
 [category]
 athletic bilbao,betking
 ath. bilbao,bet9ja
+
+[category]
+manchester utd,bet9ja
+man. utd,betking
+
+[category]
+brest,bet9ja
+stade brest,betking
+
+[category]
+st. etienne,bet9ja
+saint etienne,betking
