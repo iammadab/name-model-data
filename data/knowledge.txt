@@ -5,6 +5,7 @@ england premier league,bet9ja
 [category]
 spa  laliga,betking
 spain primera division,bet9ja
+spain laliga,sportybet
 
 [category]
 italy serie a,bet9ja
