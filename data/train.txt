@@ -9238,3 +9238,7 @@ ca estudiantes,sportybet
 agropecuario argentino,sportybet
 san martin de tucuman,sportybet
 ca tigre,sportybet
+san martin de san juan,sportybet
+nueva chicago,sportybet
+defensores de belgrano,sportybet
+gimnasia y esgrima mendoza,sportybet
