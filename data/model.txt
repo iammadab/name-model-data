@@ -2,6 +2,7 @@ eng  premier league,eng  premier league
 england premier league,eng  premier league
 spa  laliga,spa  laliga
 spain primera division,spa  laliga
+spain laliga,spa  laliga
 italy serie a,ita  serie a
 ita  serie a,ita  serie a
 france ligue 1,fra  ligue 1
